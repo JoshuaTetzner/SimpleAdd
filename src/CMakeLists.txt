@@ -18,6 +18,6 @@ SET_SOURCE_FILES_PROPERTIES(
 
 install(TARGETS main DESTINATION ${CMAKE_INSTALL_PREFIX}/bin)
 
-find_package(BLAS REQUIRED)
-find_package(LAPACK REQUIRED)
-find_package(FFTW REQUIRED)
+#find_package(BLAS REQUIRED)
+#find_package(LAPACK REQUIRED)
+#find_package(FFTW REQUIRED)
