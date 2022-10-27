@@ -1,1 +1,1 @@
-float add(float a, float b);
+int add(int a, int b);

@@ -1,11 +1,7 @@
-//#include "adder.hpp"
+//include "adder.hpp"
 
 extern "C" {
-float add(float, float);
-}
-
-extern "C" {
-int add(int, int);
+float add(float a, float b);
 }
 
 float add(float a, float b){
